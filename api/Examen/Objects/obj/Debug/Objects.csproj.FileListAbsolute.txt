@@ -1,0 +1,5 @@
+C:\Users\juan_\source\repos\Examen\Objects\bin\Debug\Objects.dll
+C:\Users\juan_\source\repos\Examen\Objects\bin\Debug\Objects.pdb
+C:\Users\juan_\source\repos\Examen\Objects\obj\Debug\Objects.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\Examen\Objects\obj\Debug\Objects.dll
+C:\Users\juan_\source\repos\Examen\Objects\obj\Debug\Objects.pdb

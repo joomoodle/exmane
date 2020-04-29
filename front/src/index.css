@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap");
+@import '~@fullcalendar/core/main.css';
+@import '~@fullcalendar/daygrid/main.css';
+body {
+
+    font-family: "Poppins", sans-serif;
+  }

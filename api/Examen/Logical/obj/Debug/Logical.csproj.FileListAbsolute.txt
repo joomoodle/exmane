@@ -1,0 +1,10 @@
+C:\Users\juan_\source\repos\Examen\Logical\bin\Debug\Logical.dll
+C:\Users\juan_\source\repos\Examen\Logical\bin\Debug\Logical.pdb
+C:\Users\juan_\source\repos\Examen\Logical\bin\Debug\Dapper.dll
+C:\Users\juan_\source\repos\Examen\Logical\bin\Debug\Objects.dll
+C:\Users\juan_\source\repos\Examen\Logical\bin\Debug\Objects.pdb
+C:\Users\juan_\source\repos\Examen\Logical\bin\Debug\Dapper.xml
+C:\Users\juan_\source\repos\Examen\Logical\obj\Debug\Logical.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\Examen\Logical\obj\Debug\Logical.csproj.CopyComplete
+C:\Users\juan_\source\repos\Examen\Logical\obj\Debug\Logical.dll
+C:\Users\juan_\source\repos\Examen\Logical\obj\Debug\Logical.pdb

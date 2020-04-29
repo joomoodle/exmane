@@ -1,0 +1,96 @@
+export default (theme) => ({
+  root: {
+    backgroundImage: `url(${process.env.PUBLIC_URL}/images/restaurant.png)`,
+    position: "absolute",
+    backgroundPosition: "center center",
+    height: "100%",
+    width: "100%",
+    top: 0,
+  },
+
+  wrapperPage: {
+    margin: "7.5% auto",
+    width: "420px",
+    position: "relative",
+  },
+
+  titleLogin: {
+    margin: "10px 0",
+    fontSize: 18,
+    textAlign: "center",
+  },
+  card: {
+    position: "relative",
+    display: "flex",
+    flexDirection: "column",
+    minWidth: 0,
+    wordWrap: "break-word",
+    backgroundColor: "#fff",
+    backgroundClip: "border-box",
+    border: "1px solid rgba(0,0,0,.125)",
+    borderRadius: ".25rem",
+    marginBottom: "30px",
+  },
+  cardBody: {
+    flex: "1 1 auto",
+    padding: "1.25rem",
+  },
+  formGroup: {
+    marginBottom: "1rem",
+  },
+  col12: {
+    flex: "0 0 100%",
+    maxWidth: "100%",
+  },
+  label: {
+    fontWeight: 600,
+    display: "inline-block",
+  },
+
+  formControl: {
+    display: "block",
+    width: "90%",
+    height: "calc(1.5em + .75rem + 2px)",
+    padding: " .375rem .75rem",
+    fontSize: "11px",
+    fontWeight: "400",
+    lineHeight: "1.5",
+    color: "#495057",
+    backgroundColor: "#fff",
+    backgroundClip: "padding-box",
+    border: "1px solid #ced4da",
+    borderRadius: ".25rem",
+    transition: "border-color .15s ease-in-out,box-shadow .15s ease-in-out",
+    margin: 0,
+    fontFamily: "inherit",
+  },
+  btnPrimary: {
+    backgroundColor: "#30419b",
+    border: "1px solid #30419b",
+    fontSize: "15.6px",
+    borderRadius: 3,
+    position: "relative",
+    cursor: "pointer",
+    display: "inline-block",
+    overflow: "hidden",
+    userSelect: "none",
+    verticalAlign: "middle",
+    width: "100%",
+    padding: ".5rem 1rem",
+    color: "#ffffff",
+    fontFamily: '"Poppins", sans-serif',
+  },
+  progress: {
+    display: "block",
+    marginTop: theme.spacing.unit * 2,
+    marginLeft: "auto",
+    marginRight: "auto",
+  },
+  fieldError: {
+    color: theme.palette.danger.main,
+    marginBottom: theme.spacing.unit * 2,
+    marginTop: theme.spacing.unit,
+    fontFamily: '"Poppins", sans-serif',
+
+  },
+});
