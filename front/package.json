@@ -40,7 +40,7 @@
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.3.0",
     "styled-components": "^5.0.1",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "validate.js": "^0.13.1"
   },
   "scripts": {
